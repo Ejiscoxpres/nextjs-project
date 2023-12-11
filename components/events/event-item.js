@@ -30,10 +30,11 @@ export default function EventItem(props){
                 </div>
                 <div className={classes.actions}>
                    <Button link={exploreLink}>
-                    <span>Exploore Event</span>
-                    <span className={classes.icon}><ArrowRightIcon />
+                    <span>Explore Event</span>
+                    <span className={classes.icon}>
+                        <ArrowRightIcon />
                     </span>
-                    </Button>
+                </Button>
                 </div>
             </div>
         </li>
