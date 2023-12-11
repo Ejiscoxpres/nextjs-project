@@ -3,7 +3,6 @@ import AddressIcon from "../icons/address-icon";
 import DateIcon from "../icons/date-icon";
 import ArrowRightIcon from '../icons/arrow-right-icon';
 import classes from './event-item.module.css';
-import ArrowRightIcon from '../icons/arrow-right-icon';
 export default function EventItem(props){
     const {title,image,date,location,id} =props;
     const humanReadableDate = new Date(date).toLocaleDateString('en-US',{
