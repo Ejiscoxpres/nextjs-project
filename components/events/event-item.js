@@ -15,7 +15,7 @@ export default function EventItem(props){
     const exploreLink =`/events/${id}`;
     return(
         <li className={classes.item}>
-            <img src={"/" + image} alt="title" />
+            <img src={"/" + image } alt="title" />
             <div className={classes.content}> 
                 <div className={classes.sumary}>
                     <h2>TITLe</h2>
