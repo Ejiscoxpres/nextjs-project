@@ -35,7 +35,7 @@ const DUMMY_EVENTS = [
       description:
         'You probably need no help with networking in general. But focusing your energy correctly - that is something where most people can improve.',
       location: 'Zakibiam street, Omaka City',
-      date: '2022-12-10',
+      date: '2023-12-10',
       image: 'images/palmtree-event.jpg',
       isFeatured: true,
     },
@@ -45,7 +45,7 @@ const DUMMY_EVENTS = [
       description:
         'You probably need no help with networking in general. But focusing your energy correctly - that is something where most people can improve.',
       location: 'Poly Unwana Road, Afikpo City',
-      date: '2022-11-10',
+      date: '2023-11-10',
       image: 'images/flower-event.jpg',
       isFeatured: true,
     },
