@@ -18,7 +18,7 @@ export default function EventItem(props){
             <img src={"/" + image } alt="title" />
             <div className={classes.content}> 
                 <div className={classes.sumary}>
-                    <h2>TITLe</h2>
+                    <h2>TITLE</h2>
                     <div className={classes.date}>
                         <DateIcon />
                         <time>{humanReadableDate}</time>

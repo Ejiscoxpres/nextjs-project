@@ -1,8 +1,8 @@
 .form {
     margin: 2rem auto;
-    box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+    box-shadow: 0 1px 4px rgba(22, 8, 8, 0.2);
     padding: 1rem;
-    background-color: white;
+    background-color: linear-gradient(to left rgb(145, 17, 161),darkorange,seagreen);
     border-radius: 6px;
     width: 90%;
     max-width: 40rem;
@@ -33,7 +33,7 @@
   
   .control select {
     font: inherit;
-    background-color: white;
+    background-color: rgb(0, 0, 0);
     border-radius: 6px;
     width: 70%;
     padding: 0.25rem;
@@ -43,9 +43,9 @@
     width: 100%;
     font: inherit;
     padding: 0.25rem 0.5rem;
-    background-color: #03be9f;
-    border: 1px solid #03be9f;
-    color: #dafff7;
+    background-color: #000000;
+    border: 1px solid #920000;
+    color: #010f0c;
     border-radius: 4px;
   }
   
